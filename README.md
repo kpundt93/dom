@@ -2,7 +2,7 @@
 
 #### By: _**Katie Pundt and Curtis Brooks**_
 
-#### _An application to practice DOM manipulation_
+#### _An application to practice DOM manipulation and traversal_
 
 ## Technologies Used
 * _HTML_
